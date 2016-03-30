@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 print 'Status: 200 OK'
 print "Content-Type: text/plain;charset=utf-8"
 print "Connection: close"
